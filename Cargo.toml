@@ -1,6 +1,8 @@
 [package]
-name = "clrs"
+name = "clrs-rust"
 version = "0.1.0"
 authors = ["Samuel Damashek <samuel.damashek@gmail.com>"]
 
 [dependencies]
+time = "*"
+rand = "0.3"
